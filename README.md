@@ -74,12 +74,6 @@ We verwelkomen bijdragen van de gemeenschap! Om bij te dragen:
    ```
 5. Open een pull request.
 
-## Licentie
-
-Dit project is gelicenseerd onder de MIT-licentie. Zie het bestand `LICENSE` voor details.
-
-
-- GitHub Issues: [Issue Tracker](https://github.com/jouwgebruikersnaam/migratietool/issues)
 
 ---
 Dank voor het gebruik van de MigratieTool!
